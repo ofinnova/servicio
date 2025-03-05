@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "client": {
+      "lastModifiedTime": "2025-03-05T06:49:00.026",
+      "enableSerialDebugging": false,
+      "enableSystemLogDebugging": false,
+      "publishedDataSizeLimitMB": 0,
+      "dynamicDataSizeLimitMB": 0,
+      "htmlDataSizeLimitMB": 0,
+      "htmlLocalStorageSizeLimitMB": 0,
+      "htmlIndexedDBSizeLimitMB": 0,
+      "publishedDataSizeLimitPercentage": 0,
+      "dynamicDataSizeLimitPercentage": 0,
+      "htmlDataSizeLimitPercentage": 0,
+      "htmlLocalStorageSizeLimitPercentage": 0,
+      "htmlIndexedDBSizeLimitPercentage": 0,
+      "limitStorageSpace": false,
+      "playbackLoggingEnabled": false,
+      "eventLoggingEnabled": false,
+      "diagnosticLoggingEnabled": false,
+      "stateLoggingEnabled": false,
+      "variableLoggingEnabled": false,
+      "uploadLogFilesAtBoot": false,
+      "uploadLogFilesAtSpecificTime": false,
+      "uploadLogFilesTime": 0
+    },
+    "server": {}
+  },
+  "files": {
+    "download": [
+      {
+        "name": "autoplay-HTML.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "9af88237b4798e507ef8ea6d0303c6fdaf3b602b"
+        },
+        "size": 20477,
+        "link": "pool\\2\\b\\sha1-9af88237b4798e507ef8ea6d0303c6fdaf3b602b"
+      },
+      {
+        "name": "HTML.bml",
+        "hash": {
+          "method": "SHA1",
+          "hex": "21e9b6c28f282f907ed1c9df0043148daaaf17c1"
+        },
+        "size": 23228,
+        "link": "pool\\c\\1\\sha1-21e9b6c28f282f907ed1c9df0043148daaaf17c1"
+      },
+      {
+        "name": "autoplugins.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "4757dc2a65c88a30f08d9ae0d7722998f0510bb8"
+        },
+        "size": 142,
+        "link": "pool\\b\\8\\sha1-4757dc2a65c88a30f08d9ae0d7722998f0510bb8",
+        "group": "script"
+      },
+      {
+        "name": "autorun.brs",
+        "hash": {
+          "method": "SHA1",
+          "hex": "75d3a268c1f242b3a28e3fed779ad10cb242755f"
+        },
+        "size": 1180930,
+        "link": "pool\\5\\f\\sha1-75d3a268c1f242b3a28e3fed779ad10cb242755f",
+        "group": "script"
+      },
+      {
+        "name": "autoschedule.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "2780ca4b172cadf41bb20b64d1aecfdda86fcc76"
+        },
+        "size": 930,
+        "link": "pool\\7\\6\\sha1-2780ca4b172cadf41bb20b64d1aecfdda86fcc76"
+      },
+      {
+        "name": "featureMinRevs.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be206e2753e404e0135926e3f26fea9a8da705d2"
+        },
+        "size": 72,
+        "link": "pool\\d\\2\\sha1-be206e2753e404e0135926e3f26fea9a8da705d2"
+      },
+      {
+        "name": "PartnerProducts.json",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+        },
+        "size": 5473,
+        "link": "pool\\3\\a\\sha1-7f6f525d51ba1977356a37f7b9f097a52cf53f3a"
+      },
+      {
+        "name": "HtmlSite1/index.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "5d2c7c8f8e49cc3917b9b2e3dcc08aa69830a291"
+        },
+        "size": 259,
+        "link": "pool\\9\\1\\sha1-5d2c7c8f8e49cc3917b9b2e3dcc08aa69830a291"
+      },
+      {
+        "name": "HtmlSite1/FTP.bpfx",
+        "hash": {
+          "method": "SHA1",
+          "hex": "02d55bc98c9e67220b22a2292dc4113a70e000d4"
+        },
+        "size": 23152,
+        "link": "pool\\d\\4\\sha1-02d55bc98c9e67220b22a2292dc4113a70e000d4"
+      },
+      {
+        "name": "HtmlSite1/HTML.bpfx",
+        "hash": {
+          "method": "SHA1",
+          "hex": "21e9b6c28f282f907ed1c9df0043148daaaf17c1"
+        },
+        "size": 23228,
+        "link": "pool\\c\\1\\sha1-21e9b6c28f282f907ed1c9df0043148daaaf17c1"
+      },
+      {
+        "name": "HtmlSite1/Laguna de San Marcos.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "2c214e4b3a18de3c6fedff4ae2d2eda647298cf3"
+        },
+        "size": 48426669,
+        "link": "pool\\f\\3\\sha1-2c214e4b3a18de3c6fedff4ae2d2eda647298cf3",
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=44100|AD=0001746d|VP=1|VC=H264|W=1920|H=1080|VD=00017465|CD=0|VFR=30.000105|D=0001746e|FT=00000000"
+      },
+      {
+        "name": "HtmlSite1/Las Batuecas.mp4",
+        "hash": {
+          "method": "SHA1",
+          "hex": "be13b3fff7c9b95ba032240c17de09b6c18c030c"
+        },
+        "size": 59626885,
+        "link": "pool\\0\\c\\sha1-be13b3fff7c9b95ba032240c17de09b6c18c030c",
+        "probe": "2|TT=MP4|IX=Y|AP=2|AC=AAC|ACH=2|ASR=44100|AD=00028488|VP=1|VC=H264|W=1920|H=1080|VD=00028488|CD=0|VFR=25.000000|D=00028489|FT=00000000"
+      },
+      {
+        "name": "HtmlSite1/Montaña.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "7c08560976650ea61d854d8a15a9269c6f2898c8"
+        },
+        "size": 115351,
+        "link": "pool\\c\\8\\sha1-7c08560976650ea61d854d8a15a9269c6f2898c8"
+      },
+      {
+        "name": "HtmlSite1/Montaña2.jpg",
+        "hash": {
+          "method": "SHA1",
+          "hex": "e309db4bd4304057d02ccc3c22aff43e6198280e"
+        },
+        "size": 32642,
+        "link": "pool\\0\\e\\sha1-e309db4bd4304057d02ccc3c22aff43e6198280e"
+      },
+      {
+        "name": "HtmlSite1/Museo.bpfx",
+        "hash": {
+          "method": "SHA1",
+          "hex": "407dbb6356f7539809ecf6ffac058ccf7f5dec2d"
+        },
+        "size": 32748,
+        "link": "pool\\2\\d\\sha1-407dbb6356f7539809ecf6ffac058ccf7f5dec2d"
+      },
+      {
+        "name": "HtmlSite1/Sonido1.mp3",
+        "hash": {
+          "method": "SHA1",
+          "hex": "c044d51d6d3412c9803820849659c900a20c898f"
+        },
+        "size": 4743000,
+        "link": "pool\\8\\f\\sha1-c044d51d6d3412c9803820849659c900a20c898f",
+        "probe": "2|TT=ES|AP=1|AC=MP3|ACH=2|ASR=44100|AB=00000100|D=000242fa|FT=00000000"
+      },
+      {
+        "name": "HtmlSite1/Sonido2.mp3",
+        "hash": {
+          "method": "SHA1",
+          "hex": "0fb80b4a7190cc4c349268b12ff999559c2d4bf1"
+        },
+        "size": 1970259,
+        "link": "pool\\f\\1\\sha1-0fb80b4a7190cc4c349268b12ff999559c2d4bf1",
+        "probe": "2|TT=ES|AP=1|AC=MP3|ACH=2|ASR=44100|AB=00000100|D=0000f082|FT=00000000"
+      },
+      {
+        "name": "HtmlSite1/VariosAudios.bpfx",
+        "hash": {
+          "method": "SHA1",
+          "hex": "f955819d1f8b21095fe10a6fce8dc4f308546fd2"
+        },
+        "size": 34266,
+        "link": "pool\\d\\2\\sha1-f955819d1f8b21095fe10a6fce8dc4f308546fd2"
+      },
+      {
+        "name": "HtmlSite1/VariosVideos.bpfx",
+        "hash": {
+          "method": "SHA1",
+          "hex": "f9884f2c5fceb85564ec922fd15e29530b9109c8"
+        },
+        "size": 30663,
+        "link": "pool\\c\\8\\sha1-f9884f2c5fceb85564ec922fd15e29530b9109c8"
+      },
+      {
+        "name": "Default_PresentationWebPage/_deviceWebPage.html",
+        "hash": {
+          "method": "SHA1",
+          "hex": "b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+        },
+        "size": 24922,
+        "link": "pool\\9\\d\\sha1-b6bec2ed0cd22a6d53cd97056d7d5f82705ffe9d"
+      }
+    ],
+    "ignore": [
+      {
+        "pattern": "*"
+      }
+    ],
+    "delete": [
+      {
+        "pattern": "*.brs"
+      },
+      {
+        "pattern": "*.rok"
+      },
+      {
+        "pattern": "*.bsfw"
+      }
+    ]
+  }
+}

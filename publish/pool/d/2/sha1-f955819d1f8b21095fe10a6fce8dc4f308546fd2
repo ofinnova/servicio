@@ -1,0 +1,1056 @@
+{
+  "meta": {
+    "brightAuthorVersion": "1.49.1",
+    "buildType": "Standard"
+  },
+  "bsdm": {
+    "sign": {
+      "properties": {
+        "id": "818b6b35-f43b-4000-a604-32328b6d4000",
+        "version": "1.3.10",
+        "name": "VariosAudios",
+        "videoMode": "1920x1080x60p",
+        "size": {
+          "width": 1920,
+          "height": 1080
+        },
+        "model": "LS425",
+        "monitorOrientation": "Landscape",
+        "monitorOverscan": "NoOverscan",
+        "videoConnector": "HDMI",
+        "deviceWebPageDisplay": "Standard",
+        "backgroundScreenColor": {
+          "a": 255,
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "forceResolution": false,
+        "tenBitColorEnabled": false,
+        "dolbyVisionEnabled": false,
+        "fullResGraphicsEnabled": false,
+        "audioConfiguration": "MixedAudioPCMOnly",
+        "audioAutoLevel": false,
+        "htmlEnableJavascriptConsole": false,
+        "alphabetizeVariableNames": false,
+        "autoCreateMediaCounterVariables": false,
+        "resetVariablesOnPresentationStart": false,
+        "networkedVariablesUpdateInterval": 300,
+        "delayScheduleChangeUntilMediaEndEvent": false,
+        "language": "English",
+        "languageKey": "eng",
+        "flipCoordinates": false,
+        "inactivityTimeout": false,
+        "inactivityTime": 30,
+        "touchCursorDisplayMode": "Auto",
+        "udpDestinationAddressType": "IPAddress",
+        "udpDestinationAddress": "255.255.255.255",
+        "udpDestinationPort": 5000,
+        "udpReceiverPort": 5000,
+        "enableEnhancedSynchronization": null,
+        "disableSettingsHandler": false,
+        "htmlEnableChromiumVideoPlayback": false,
+        "gpsConfiguration": "None",
+        "isMosaic": false,
+        "graphicsZOrder": "Back"
+      },
+      "serialPortConfigurations": [
+        {
+          "gps": false,
+          "port": "0",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "1",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "2",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "3",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "4",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "5",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "6",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        },
+        {
+          "gps": false,
+          "port": "7",
+          "baudRate": 115200,
+          "dataBits": 8,
+          "stopBits": 1,
+          "parity": "N",
+          "protocol": "ASCII",
+          "sendEol": "CR",
+          "receiveEol": "CR",
+          "invertSignals": false,
+          "connectedDevice": "None"
+        }
+      ],
+      "gpio": [
+        "input",
+        "input",
+        "input",
+        "input",
+        "input",
+        "input",
+        "input",
+        "input"
+      ],
+      "buttonPanels": {
+        "bp900a": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp900b": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp900c": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp900d": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp200a": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp200b": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp200c": {
+          "configureAutomatically": true,
+          "configuration": 0
+        },
+        "bp200d": {
+          "configureAutomatically": true,
+          "configuration": 0
+        }
+      },
+      "irRemote": {
+        "irInConfiguration": {
+          "source": "Iguana"
+        },
+        "irOutConfiguration": {
+          "destination": "Iguana"
+        },
+        "irRemoteControl": {
+          "id": "RC-1002",
+          "encoding": "NEC",
+          "manufacturerCode": 28560,
+          "buttons": {
+            "0": {
+              "buttonCode": 0,
+              "buttonDescription": "Option"
+            },
+            "1": {
+              "buttonCode": 1,
+              "buttonDescription": "1"
+            },
+            "2": {
+              "buttonCode": 2,
+              "buttonDescription": "2"
+            },
+            "3": {
+              "buttonCode": 3,
+              "buttonDescription": "3"
+            },
+            "4": {
+              "buttonCode": 4,
+              "buttonDescription": "4"
+            },
+            "5": {
+              "buttonCode": 5,
+              "buttonDescription": "5"
+            },
+            "6": {
+              "buttonCode": 6,
+              "buttonDescription": "6"
+            },
+            "7": {
+              "buttonCode": 7,
+              "buttonDescription": "7"
+            },
+            "8": {
+              "buttonCode": 8,
+              "buttonDescription": "8"
+            },
+            "9": {
+              "buttonCode": 9,
+              "buttonDescription": "9"
+            },
+            "10": {
+              "buttonCode": 10,
+              "buttonDescription": "Exit"
+            },
+            "11": {
+              "buttonCode": 11,
+              "buttonDescription": "Channel Up"
+            },
+            "12": {
+              "buttonCode": 12,
+              "buttonDescription": "Period \".\""
+            },
+            "13": {
+              "buttonCode": 13,
+              "buttonDescription": "Channel Down"
+            },
+            "14": {
+              "buttonCode": 14,
+              "buttonDescription": "Source"
+            },
+            "15": {
+              "buttonCode": 15,
+              "buttonDescription": "Mute"
+            },
+            "16": {
+              "buttonCode": 16,
+              "buttonDescription": "Left"
+            },
+            "17": {
+              "buttonCode": 17,
+              "buttonDescription": "Right"
+            },
+            "18": {
+              "buttonCode": 18,
+              "buttonDescription": "Up"
+            },
+            "19": {
+              "buttonCode": 19,
+              "buttonDescription": "Down"
+            },
+            "20": {
+              "buttonCode": 20,
+              "buttonDescription": "Ok"
+            },
+            "21": {
+              "buttonCode": 21,
+              "buttonDescription": "Back"
+            },
+            "22": {
+              "buttonCode": 22,
+              "buttonDescription": "Power"
+            },
+            "23": {
+              "buttonCode": 23,
+              "buttonDescription": "Home"
+            },
+            "24": {
+              "buttonCode": 24,
+              "buttonDescription": "Search"
+            },
+            "25": {
+              "buttonCode": 25,
+              "buttonDescription": "Play"
+            },
+            "26": {
+              "buttonCode": 26,
+              "buttonDescription": "Fast Forward"
+            },
+            "27": {
+              "buttonCode": 27,
+              "buttonDescription": "Rewind"
+            },
+            "28": {
+              "buttonCode": 28,
+              "buttonDescription": "Pause"
+            },
+            "29": {
+              "buttonCode": 29,
+              "buttonDescription": "Add"
+            },
+            "30": {
+              "buttonCode": 30,
+              "buttonDescription": "Shuffle"
+            },
+            "31": {
+              "buttonCode": 31,
+              "buttonDescription": "Repeat"
+            },
+            "64": {
+              "buttonCode": 64,
+              "buttonDescription": "Volume Up"
+            },
+            "65": {
+              "buttonCode": 65,
+              "buttonDescription": "Volume Down"
+            },
+            "66": {
+              "buttonCode": 66,
+              "buttonDescription": "Brightness"
+            },
+            "67": {
+              "buttonCode": 67,
+              "buttonDescription": "Info"
+            },
+            "68": {
+              "buttonCode": 68,
+              "buttonDescription": "Green"
+            },
+            "69": {
+              "buttonCode": 69,
+              "buttonDescription": "0"
+            },
+            "70": {
+              "buttonCode": 70,
+              "buttonDescription": "Stop"
+            },
+            "71": {
+              "buttonCode": 71,
+              "buttonDescription": "Last"
+            },
+            "83": {
+              "buttonCode": 83,
+              "buttonDescription": "Red"
+            },
+            "84": {
+              "buttonCode": 84,
+              "buttonDescription": "Blue"
+            },
+            "87": {
+              "buttonCode": 87,
+              "buttonDescription": "Yellow"
+            }
+          }
+        }
+      },
+      "audioSignPropertyMap": {
+        "analog1": {
+          "min": 0,
+          "max": 0
+        },
+        "analog2": {
+          "min": 0,
+          "max": 100
+        },
+        "analog3": {
+          "min": 0,
+          "max": 100
+        },
+        "hdmi": {
+          "min": 0,
+          "max": 0
+        },
+        "hdmi1": {
+          "min": 0,
+          "max": 100
+        },
+        "hdmi2": {
+          "min": 0,
+          "max": 100
+        },
+        "hdmi3": {
+          "min": 0,
+          "max": 100
+        },
+        "hdmi4": {
+          "min": 0,
+          "max": 100
+        },
+        "spdif": {
+          "min": 0,
+          "max": 0
+        },
+        "usbA": {
+          "min": 0,
+          "max": 100
+        },
+        "usbB": {
+          "min": 0,
+          "max": 100
+        },
+        "usbC": {
+          "min": 0,
+          "max": 100
+        },
+        "usbD": {
+          "min": 0,
+          "max": 100
+        },
+        "usbTypeA": {
+          "min": 0,
+          "max": 100
+        },
+        "usbTypeC": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_1": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_2": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_3": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_4": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_5": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_6": {
+          "min": 0,
+          "max": 100
+        },
+        "usb700_7": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_1": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_2": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_3": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_4": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_5": {
+          "min": 0,
+          "max": 100
+        },
+        "usb_6": {
+          "min": 0,
+          "max": 100
+        }
+      },
+      "wssDeviceSpec": {},
+      "lastModifiedTime": "2025-02-12T07:04:08.698Z"
+    },
+    "zones": {
+      "zonesById": {
+        "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000": {
+          "id": "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000",
+          "name": "Zone 2",
+          "type": "VideoOrImages",
+          "tag": "VideoOrImages2",
+          "nonInteractive": false,
+          "initialMediaStateId": "c781704c-8ab7-4000-a9c3-c09ae3b4a000",
+          "position": {
+            "width": 1920,
+            "height": 1080,
+            "x": 0,
+            "y": 0,
+            "pct": false
+          },
+          "properties": {
+            "viewMode": "Letterboxed and Centered",
+            "videoVolume": 100,
+            "maxContentResolution": "HD",
+            "brightness": 128,
+            "contrast": 64,
+            "saturation": 64,
+            "hue": 0,
+            "zOrderFront": true,
+            "mosaic": false,
+            "audioOutput": "Analog",
+            "audioMode": "Stereo",
+            "audioMapping": "Audio1",
+            "audioOutputAssignments": {
+              "analog1": "Pcm",
+              "analog2": "None",
+              "analog3": "None",
+              "usbA": "None",
+              "usbB": "None",
+              "usbC": "None",
+              "usbD": "None",
+              "usbTypeA": "None",
+              "usbTypeC": "None",
+              "usb700_1": "None",
+              "usb700_2": "None",
+              "usb700_3": "None",
+              "usb700_4": "None",
+              "usb700_5": "None",
+              "usb700_6": "None",
+              "usb700_7": "None",
+              "usb_1": "None",
+              "usb_2": "None",
+              "usb_3": "None",
+              "usb_4": "None",
+              "usb_5": "None",
+              "usb_6": "None",
+              "spdif": "Pcm",
+              "hdmi": "Pcm",
+              "hdmi1": "Pcm",
+              "hdmi2": "None",
+              "hdmi3": "None",
+              "hdmi4": "None"
+            },
+            "audioMixMode": "Stereo",
+            "audioVolume": 100,
+            "minimumVolume": 0,
+            "maximumVolume": 100,
+            "imageMode": "Scale to Fit"
+          }
+        },
+        "f45c1a26-52b1-4000-a525-44cd9b3a7000": {
+          "id": "f45c1a26-52b1-4000-a525-44cd9b3a7000",
+          "name": "Zone 3",
+          "type": "Images",
+          "tag": "VideoOrImages0",
+          "nonInteractive": true,
+          "initialMediaStateId": "aecd98f4-8f93-4000-a510-e1c8ea371000",
+          "position": {
+            "width": 948.118811881,
+            "height": 1071.38613864,
+            "x": 4.75247524,
+            "y": 3.5940099834,
+            "pct": false
+          },
+          "properties": {
+            "imageMode": "Scale to Fit"
+          }
+        },
+        "8ef28d9f-17e7-4000-a9e7-8d4460b3b000": {
+          "id": "8ef28d9f-17e7-4000-a9e7-8d4460b3b000",
+          "name": "Zone 4",
+          "type": "Images",
+          "tag": "VideoOrImages1",
+          "nonInteractive": true,
+          "initialMediaStateId": "c45c4625-512a-4000-ab76-12d25a81d000",
+          "position": {
+            "width": 967.1287128714,
+            "height": 1078.514851512,
+            "x": 952.8712871362,
+            "y": 0,
+            "pct": false
+          },
+          "properties": {
+            "imageMode": "Scale to Fit"
+          }
+        }
+      },
+      "allZones": [
+        "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000",
+        "f45c1a26-52b1-4000-a525-44cd9b3a7000",
+        "8ef28d9f-17e7-4000-a9e7-8d4460b3b000"
+      ],
+      "zoneLayersById": {
+        "fb4edf1c-4187-4000-adc1-315daf01e000": {
+          "id": "fb4edf1c-4187-4000-adc1-315daf01e000",
+          "type": "Graphics",
+          "zoneSequence": [
+            "f45c1a26-52b1-4000-a525-44cd9b3a7000",
+            "8ef28d9f-17e7-4000-a9e7-8d4460b3b000",
+            "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000"
+          ]
+        },
+        "47a1e202-5c5e-4000-a154-e27668981000": {
+          "id": "47a1e202-5c5e-4000-a154-e27668981000",
+          "type": "Audio",
+          "zoneSequence": []
+        },
+        "777fb3e3-15e1-4000-a88a-677d42dbc000": {
+          "id": "777fb3e3-15e1-4000-a88a-677d42dbc000",
+          "type": "Invisible",
+          "zoneSequence": []
+        },
+        "f5bba314-9c90-4000-aeca-d827f6c5d000": {
+          "id": "f5bba314-9c90-4000-aeca-d827f6c5d000",
+          "type": "Video",
+          "zoneSequence": [
+            "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000"
+          ],
+          "zoneLayerSpecificProperties": {
+            "type": "HD",
+            "index": 0,
+            "sharedDecoder": false,
+            "enableMosaicDeinterlacer": false
+          }
+        }
+      },
+      "zoneLayerSequence": [
+        "fb4edf1c-4187-4000-adc1-315daf01e000",
+        "f5bba314-9c90-4000-aeca-d827f6c5d000"
+      ],
+      "zoneTagIndices": {
+        "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000": 7,
+        "f45c1a26-52b1-4000-a525-44cd9b3a7000": 2,
+        "8ef28d9f-17e7-4000-a9e7-8d4460b3b000": 2
+      }
+    },
+    "screens": {
+      "screensById": {},
+      "allScreens": []
+    },
+    "mediaStates": {
+      "mediaStatesById": {
+        "aecd98f4-8f93-4000-a510-e1c8ea371000": {
+          "id": "aecd98f4-8f93-4000-a510-e1c8ea371000",
+          "name": "Montaña.jpg",
+          "tag": "1",
+          "container": {
+            "id": "f45c1a26-52b1-4000-a525-44cd9b3a7000",
+            "type": 0
+          },
+          "contentItem": {
+            "name": "Montaña.jpg",
+            "type": "Image",
+            "assetId": "db220960-e278-4000-afa8-322cbfe26000",
+            "useImageBuffer": false,
+            "videoPlayerRequired": false,
+            "defaultTransition": "No effect",
+            "transitionDuration": 1
+          }
+        },
+        "c45c4625-512a-4000-ab76-12d25a81d000": {
+          "id": "c45c4625-512a-4000-ab76-12d25a81d000",
+          "name": "Montaña2.jpg",
+          "tag": "1",
+          "container": {
+            "id": "8ef28d9f-17e7-4000-a9e7-8d4460b3b000",
+            "type": 0
+          },
+          "contentItem": {
+            "name": "Montaña2.jpg",
+            "type": "Image",
+            "assetId": "f0f3dd7c-0052-4000-a607-65054c245000",
+            "useImageBuffer": false,
+            "videoPlayerRequired": false,
+            "defaultTransition": "No effect",
+            "transitionDuration": 1
+          }
+        },
+        "c781704c-8ab7-4000-a9c3-c09ae3b4a000": {
+          "id": "c781704c-8ab7-4000-a9c3-c09ae3b4a000",
+          "name": "Sonido1.mp3",
+          "tag": "5",
+          "container": {
+            "id": "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000",
+            "type": 0
+          },
+          "contentItem": {
+            "name": "Sonido1.mp3",
+            "type": "Audio",
+            "assetId": "a495887d-e760-4000-a474-2c5244046000",
+            "volume": 100
+          }
+        },
+        "702b2a61-955c-4000-a587-4563b012c000": {
+          "id": "702b2a61-955c-4000-a587-4563b012c000",
+          "name": "Sonido2.mp3",
+          "tag": "6",
+          "container": {
+            "id": "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000",
+            "type": 0
+          },
+          "contentItem": {
+            "name": "Sonido2.mp3",
+            "type": "Audio",
+            "assetId": "f3f83d4c-a8f1-4000-a06c-ee6c27fa8000",
+            "volume": 100
+          }
+        }
+      },
+      "sequencesByParentId": {}
+    },
+    "events": {
+      "d9bdb264-c17d-4000-a2a5-3d9c1040a000": {
+        "id": "d9bdb264-c17d-4000-a2a5-3d9c1040a000",
+        "name": "Montaña.jpg_ev",
+        "type": "Timer",
+        "mediaStateId": "aecd98f4-8f93-4000-a510-e1c8ea371000",
+        "disabled": true,
+        "data": {
+          "interval": 6
+        }
+      },
+      "3f0fb4e0-4b8f-4000-a859-8d9840e33000": {
+        "id": "3f0fb4e0-4b8f-4000-a859-8d9840e33000",
+        "name": "Montaña2.jpg_ev",
+        "type": "Timer",
+        "mediaStateId": "c45c4625-512a-4000-ab76-12d25a81d000",
+        "disabled": true,
+        "data": {
+          "interval": 6
+        }
+      },
+      "2bc23670-add9-4000-a9b1-9aa43e4ec000": {
+        "id": "2bc23670-add9-4000-a9b1-9aa43e4ec000",
+        "name": "Sonido1.mp3_ev_ev",
+        "type": "RectangularTouch",
+        "mediaStateId": "c781704c-8ab7-4000-a9c3-c09ae3b4a000",
+        "disabled": false,
+        "data": {
+          "region": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "pct": false
+          }
+        },
+        "action": "None"
+      },
+      "4ffb079d-1689-4000-a716-c52e55cd1000": {
+        "id": "4ffb079d-1689-4000-a716-c52e55cd1000",
+        "name": "Sonido2.mp3_ev_ev",
+        "type": "RectangularTouch",
+        "mediaStateId": "702b2a61-955c-4000-a587-4563b012c000",
+        "disabled": false,
+        "data": {
+          "region": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "pct": false
+          }
+        },
+        "action": "None"
+      }
+    },
+    "transitions": {
+      "transitionsById": {
+        "1aa12b23-73c2-4000-a452-f838ad950000": {
+          "id": "1aa12b23-73c2-4000-a452-f838ad950000",
+          "name": "Montaña.jpg_tr",
+          "eventId": "d9bdb264-c17d-4000-a2a5-3d9c1040a000",
+          "targetMediaStateId": "aecd98f4-8f93-4000-a510-e1c8ea371000",
+          "type": "No effect",
+          "duration": 0
+        },
+        "46b32e03-ca69-4000-a5b6-e3b6b8be9000": {
+          "id": "46b32e03-ca69-4000-a5b6-e3b6b8be9000",
+          "name": "Montaña2.jpg_tr",
+          "eventId": "3f0fb4e0-4b8f-4000-a859-8d9840e33000",
+          "targetMediaStateId": "c45c4625-512a-4000-ab76-12d25a81d000",
+          "type": "No effect",
+          "duration": 0
+        },
+        "7eb77f99-8914-4000-afc7-7c3183d52000": {
+          "id": "7eb77f99-8914-4000-afc7-7c3183d52000",
+          "name": "Sonido1.mp3_ev_tr",
+          "eventId": "2bc23670-add9-4000-a9b1-9aa43e4ec000",
+          "targetMediaStateId": "702b2a61-955c-4000-a587-4563b012c000",
+          "type": "No effect",
+          "duration": 0
+        },
+        "cd75ff4b-3013-4000-aacc-86615f920000": {
+          "id": "cd75ff4b-3013-4000-aacc-86615f920000",
+          "name": "Sonido2.mp3_ev_tr",
+          "eventId": "4ffb079d-1689-4000-a716-c52e55cd1000",
+          "targetMediaStateId": "c781704c-8ab7-4000-a9c3-c09ae3b4a000",
+          "type": "No effect",
+          "duration": 0
+        }
+      },
+      "sequencesByEventId": {}
+    },
+    "commands": {
+      "commandsById": {},
+      "sequencesById": {}
+    },
+    "userDefinedEvents": {
+      "userDefinedEventsById": {},
+      "sequence": []
+    },
+    "htmlSites": {},
+    "nodeApps": {},
+    "dataFeeds": {
+      "feedsById": {},
+      "sourcesById": {}
+    },
+    "userVariables": {
+      "variablesById": {},
+      "sequence": []
+    },
+    "liveText": {
+      "itemsById": {},
+      "layersByCanvasId": {},
+      "dataFeedsByGroupId": {},
+      "canvasesById": {}
+    },
+    "deviceWebPages": {},
+    "scriptPlugins": {},
+    "parserPlugins": {},
+    "videoModePlugins": {},
+    "auxiliaryFiles": {},
+    "linkedPresentations": {},
+    "partnerProducts": {},
+    "customAutorun": "0",
+    "bmapSpec": "0",
+    "assetMap": {
+      "db220960-e278-4000-afa8-322cbfe26000": {
+        "id": "db220960-e278-4000-afa8-322cbfe26000",
+        "name": "Montaña.jpg",
+        "path": "C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Content",
+        "scope": "05567fc176c54680",
+        "locator": "file://\\C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\Montaña.jpg",
+        "mediaType": "Image",
+        "fileSize": 115351,
+        "lastModifiedDate": "2025-02-04T09:04:37.689Z",
+        "refCount": 1
+      },
+      "f0f3dd7c-0052-4000-a607-65054c245000": {
+        "id": "f0f3dd7c-0052-4000-a607-65054c245000",
+        "name": "Montaña2.jpg",
+        "path": "C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Content",
+        "scope": "05567fc176c54680",
+        "locator": "file://\\C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\Montaña2.jpg",
+        "mediaType": "Image",
+        "fileSize": 32642,
+        "lastModifiedDate": "2025-02-04T09:09:12.848Z",
+        "refCount": 1
+      },
+      "a495887d-e760-4000-a474-2c5244046000": {
+        "id": "a495887d-e760-4000-a474-2c5244046000",
+        "name": "Sonido1.mp3",
+        "path": "C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Content",
+        "scope": "05567fc176c54680",
+        "locator": "file://\\C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\Sonido1.mp3",
+        "mediaType": "Audio",
+        "fileSize": 4743000,
+        "lastModifiedDate": "2025-02-10T11:58:16.989Z",
+        "refCount": 1
+      },
+      "f3f83d4c-a8f1-4000-a06c-ee6c27fa8000": {
+        "id": "f3f83d4c-a8f1-4000-a06c-ee6c27fa8000",
+        "name": "Sonido2.mp3",
+        "path": "C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\",
+        "networkId": 0,
+        "location": "Local",
+        "assetType": "Content",
+        "scope": "05567fc176c54680",
+        "locator": "file://\\C:\\Users\\forma\\Desktop\\dianas-app\\BrightSign\\Museo\\Sonido2.mp3",
+        "mediaType": "Audio",
+        "fileSize": 1970259,
+        "lastModifiedDate": "2025-02-10T11:58:48.258Z",
+        "refCount": 1
+      }
+    },
+    "thumbnail": {
+      "type": "image/jpeg",
+      "data": "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",
+      "size": {
+        "width": 200,
+        "height": 112
+      },
+      "hash": "1dc6d3cd55c5d40d48006ef9126b068d801502ca"
+    }
+  },
+  "selection": {
+    "hovered": null,
+    "selectionContainer": {
+      "id": "4ffb079d-1689-4000-a716-c52e55cd1000",
+      "type": "Invalid",
+      "selectableType": "TOUCH_EVENT",
+      "name": "Touch Region",
+      "containerId": "702b2a61-955c-4000-a587-4563b012c000"
+    },
+    "selectionEntities": {
+      "4ffb079d-1689-4000-a716-c52e55cd1000": {
+        "id": "4ffb079d-1689-4000-a716-c52e55cd1000",
+        "type": "Invalid",
+        "selectableType": "TOUCH_EVENT",
+        "selectableData": null
+      }
+    },
+    "prevSelectionEntities": {},
+    "isEventAdvancedEnabled": false,
+    "activeAssetMenuTab": "ASSETS"
+  },
+  "interactiveCanvas": {
+    "statePositionById": {
+      "c781704c-8ab7-4000-a9c3-c09ae3b4a000": {
+        "id": "c781704c-8ab7-4000-a9c3-c09ae3b4a000",
+        "position": {
+          "x": -589.1134033203125,
+          "y": 276.134765625
+        }
+      },
+      "702b2a61-955c-4000-a587-4563b012c000": {
+        "id": "702b2a61-955c-4000-a587-4563b012c000",
+        "position": {
+          "x": -301.18382263183594,
+          "y": 296.40191650390625
+        }
+      },
+      "5de0d294-b340-4000-aec8-3953c85c4000": {
+        "id": "5de0d294-b340-4000-aec8-3953c85c4000",
+        "position": {
+          "x": 453,
+          "y": 187.39999389648438
+        }
+      }
+    },
+    "eventDataById": {
+      "8d1e4d31-f5b3-4000-ae5f-51a06c28c000": {
+        "id": "8d1e4d31-f5b3-4000-ae5f-51a06c28c000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "05a55e9b-e63b-4000-a455-4c76709d6000": {
+        "id": "05a55e9b-e63b-4000-a455-4c76709d6000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "c01da47e-b14d-4000-abab-f5a0a0345000": {
+        "id": "c01da47e-b14d-4000-abab-f5a0a0345000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "edd2d102-f496-4000-a5af-af4bb6ddc000": {
+        "id": "edd2d102-f496-4000-a5af-af4bb6ddc000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "5a7f8463-e0ee-4000-aa04-04ae41d1c000": {
+        "id": "5a7f8463-e0ee-4000-aa04-04ae41d1c000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "951f1904-ca42-4000-a054-6ace3d5c3000": {
+        "id": "951f1904-ca42-4000-a054-6ace3d5c3000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "16b7e703-5e45-4000-abb3-8c86e1c8d000": {
+        "id": "16b7e703-5e45-4000-abb3-8c86e1c8d000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "2bc23670-add9-4000-a9b1-9aa43e4ec000": {
+        "id": "2bc23670-add9-4000-a9b1-9aa43e4ec000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      },
+      "4ffb079d-1689-4000-a716-c52e55cd1000": {
+        "id": "4ffb079d-1689-4000-a716-c52e55cd1000",
+        "displayType": "DisplayLabel",
+        "labelLocation": "Bottom"
+      }
+    },
+    "viewTransformByZoneId": {
+      "e9525fcf-1eb1-4000-a0c1-9b44ce1a2000": {
+        "x": 385.2739122124243,
+        "y": 92.09623954082099,
+        "k": 0.16493848884661172
+      },
+      "8529f8e5-4db4-4000-abf4-f8f1b2972000": {
+        "x": 0,
+        "y": 0,
+        "k": 1
+      }
+    },
+    "isLoaderEnabled": false
+  },
+  "eventMenu": {
+    "isOpen": true,
+    "showTitles": true
+  },
+  "liveText": {},
+  "screenLayoutSettings": {
+    "selectedLayoutId": "Landscape1x2",
+    "screenCount": 2,
+    "isLayoutBoundaryToggled": false,
+    "selectedBezel": null,
+    "isSnapToCanvasToggled": false,
+    "layout": {
+      "id": "Landscape1x2",
+      "columns": 1,
+      "rows": 2,
+      "screenOrientation": "Landscape"
+    }
+  }
+}
